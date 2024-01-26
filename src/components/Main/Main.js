@@ -1,6 +1,5 @@
 import React from "react";
 import "./Main.css";
-import "../../media-queries.css";
 import card1 from "../../assets/playlist/1.jpeg";
 import card2 from "../../assets/playlist/2.png";
 import card3 from "../../assets/playlist/3.jpeg";
